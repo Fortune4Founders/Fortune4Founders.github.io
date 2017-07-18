@@ -1,7 +1,10 @@
 /* 1. Write styles for the body tag to give your page a background color, image or texture. */
 body {
-	background-image: url("bbbb.jpg");
+    background-color: #20A2BB;
+    background-size:cover; 
+    background-repeat:no-repeat;
 }
+
 
 /* 2. Write styles for div ID text-display so that it displays below your self-orbit */
 #text-display {
